@@ -1,0 +1,15 @@
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\bin\Debug\net6.0\Week2_Assigment.exe
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\bin\Debug\net6.0\Week2_Assigment.deps.json
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\bin\Debug\net6.0\Week2_Assigment.runtimeconfig.json
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\bin\Debug\net6.0\Week2_Assigment.dll
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\bin\Debug\net6.0\Week2_Assigment.pdb
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.csproj.AssemblyReference.cache
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.AssemblyInfo.cs
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.dll
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\refint\Week2_Assigment.dll
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.pdb
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\Week2_Assigment.genruntimeconfig.cache
+C:\Users\Hüseyin Bozdemir\source\repos\Entertech Bootcamp\Week2_Assigment\Week2_Assigment\obj\Debug\net6.0\ref\Week2_Assigment.dll
